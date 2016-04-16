@@ -15,4 +15,13 @@
             </page-footer>
         </simple-master-page>
     </page-setup>
+    <body>
+        <label id="4">
+            <property name="fontSize">12pt</property>
+            <text-property name="text">FORMULIR PENYESUAIAN KLASIFIKASI ZONA NILAI TANAH</text-property>
+        </label>
+        <label id="5">
+            <text-property name="text">Nomor Dokumen :</text-property>
+        </label>
+    </body>
 </report>
